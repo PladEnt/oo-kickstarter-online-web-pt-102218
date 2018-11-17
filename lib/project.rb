@@ -2,7 +2,7 @@ class Backer
   attr_accessor :titel
   
   def initialize(titel)
-    @backed_projects = []
+    @backers = []
     @titel = titel
   end
   
