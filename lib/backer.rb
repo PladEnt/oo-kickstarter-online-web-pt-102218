@@ -1,5 +1,5 @@
 class Backer
   
-  initialize()
-  
+  initialize(array)
+  @backed_projects = []
 end
