@@ -10,5 +10,7 @@ class Backer
     @name
   end
   
-  def 
+  def back_project(array)
+    @back_project = array
+  end
 end
